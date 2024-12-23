@@ -2,6 +2,8 @@
 
 The aim is to predict whether a bank's customers leave the bank or not. If the Client has closed his/her bank account, he/she has left.
 
+You can check it out here: https://churn-classification-using-ann-uqhqmfv2xtbrwvjx3h2rm4.streamlit.app/
+
 ### Dataset:  
 
 1) RowNumber: corresponds to the record (row) number and has no effect on the output.  
